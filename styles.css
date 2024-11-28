@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+}
+
+.container {
+    border: 6px solid black;
+  
+}
+
+.grid-item {
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.item-1 {
+    background-color: aquamarine;
+}
+
+.item-2 {
+    background-color: #c96a1d;
+}
+
+.item-3 {
+    background-color: #1b3b08;
+}
+
+.item-4 {
+    background-color: #5d4207;
+}
+
+.item-5 {
+    background-color: #681fc2;
+}
+
+.item-6 {
+    background-color: #bf357a;
+}
+
+.item-7 {
+    background-color: #198568;
+}
+
+.item-8 {
+    background-color: #0694c8;
+}
+
+.item-9 {
+    background-color: #be721b;
+}

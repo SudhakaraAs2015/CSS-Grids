@@ -4,6 +4,8 @@ body {
 
 .container {
     border: 6px solid black;
+    display: grid;
+    grid-template-columns: repeat(6,200px)
   
 }
 
